@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/backup">
+        <file>record.dat</file>
+        <file>LICENSE</file>
+    </qresource>
+</RCC>
